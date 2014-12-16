@@ -1,0 +1,10 @@
+#define CLOCK 0
+#define APPSWITCHER 1
+#define LASER 2
+#define FLASHLIGHT 3
+#define TVBGONE 4
+#define POWERPOINT 5
+#define GLASS_DPAD 6
+#define BREATHALYZER 7
+#define LIFECOUNTER 8
+#define SET_CLOCK 9
